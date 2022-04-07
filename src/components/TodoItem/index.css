@@ -1,0 +1,17 @@
+/* Write your CSS here */
+.st-each-todo-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.st-todo-title {
+  color: #000000;
+  font-size: 18px;
+}
+.st-delete-button {
+  padding: 5px;
+  border: 1px solid #ff0b37;
+  border-radius: 8px;
+  color: #ff0b37;
+  background-color: transparent;
+}
